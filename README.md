@@ -6,6 +6,9 @@ Data analysis will be performed on raw data provided by 'PyBer', a ride-sharing 
 
 ## Results
 ### Total fare by City Type
+- ![](analysis/Fig3.png)
+- By City Type:
+  - ![](analysis/Fig5.png)
 - ![Graphical Representation](analysis/PyBer_fare_summary.png)
 
 
@@ -17,10 +20,7 @@ Data analysis will be performed on raw data provided by 'PyBer', a ride-sharing 
 ### total drivers
 - ![](analysis/Fig4.png)
 - ![](analysis/Fig7.png)
-### total fares
-- ![](analysis/Fig3.png)
-- By City Type:
-  - ![](analysis/Fig5.png)
+
 ### average fare 
 | City Type  | Avg. Fare per Ride | Avg. Fare Per Driver |
 | ------------- | ------------- | ------------- |
