@@ -54,5 +54,8 @@ Data analysis will be performed on raw data provided by 'PyBer', a ride-sharing 
 - It is seen that the average fare is significantly higher both per ride and per driver in Rural areas than Urban areas.
 
 # Summary
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-- There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+Based on the results, the following recommendations are made to address the differences among the city types:
+
+- Suburban cities, bring in almost twice PyBer's % of Total Fare in comparison to their % of Total Drivers, and Rural cities almost triple. Employees in these cities may be happier and more useful for gathering recruitment-marketing materials.
+- Urban cities have very high variability in the data provided, and additional features to classify the cities may help provide additional analytical insight.
+- Additional analytical resources is highly recommended to analyze Urban city types as they account for nearly one-third of the company's gross revenue.
