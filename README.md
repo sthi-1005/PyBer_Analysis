@@ -21,9 +21,12 @@ Data analysis will be performed on raw data provided by 'PyBer', a ride-sharing 
 - ![](analysis/Fig3.png)
 - By City Type:
   - ![](analysis/Fig5.png)
-- average fare per ride and driver, and 
-- total fare by city type.
-
+### average fare 
+| City Type  | Average Fare per Ride | Per Driver |
+| ------------- | ------------- | ------------- |
+| Rural | 34.62 | 55.49 |
+| Suburban | 30.97 | 39.50 |
+| Urban | 24.53 | 16.57|
 
 # Summary
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
