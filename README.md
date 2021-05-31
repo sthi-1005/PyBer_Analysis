@@ -5,23 +5,27 @@ Data analysis will be performed on raw data provided by 'PyBer', a ride-sharing 
 
 
 ## Results
-### Total fare by City Type
-- ![](analysis/Fig3.png)
-- By City Type:
-  - ![](analysis/Fig5.png)
-- ![Graphical Representation](analysis/PyBer_fare_summary.png)
+### Total Fare
 
+| Overview | Pie Chart Composition |
+| ------------- | ------------- |
+| ![Graphical Representation](analysis/PyBer_fare_summary.png) | ![](analysis/Fig5.png) |
 
-- There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the 
-### total rides
-- ![](analysis/Fig1.png)
-- ![](analysis/Fig2.png)
-- ![](analysis/Fig6.png)
-### total drivers
+### Total Rides
+
+![](analysis/Fig1.png)
+
+| Box&Whisker | Pie Chart Composition |
+| ------------- | ------------- |
+|![](analysis/Fig2.png) | ![](analysis/Fig6.png) |
+
+### Total Drivers
 - ![](analysis/Fig4.png)
 - ![](analysis/Fig7.png)
 
 ### average fare 
+<b>Overview</b><br>
+![](analysis/Fig3.png) 
 | City Type  | Avg. Fare per Ride | Avg. Fare Per Driver |
 | ------------- | ------------- | ------------- |
 | Rural | 34.62 | 55.49 |
