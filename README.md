@@ -14,6 +14,15 @@ Data analysis will be performed on raw data provided by 'PyBer', a ride-sharing 
 - Total Fares by City Types is highly consistent; Urban cities provide the highest total fare, and Rural cities provide the lowest.
 - During the period of analysis (January 2019 through April 2019, month-ended) Ubran cities account for nearly one-third of PyBer's Total Fares.
 
+### Fare Breakdown
+<b>Overview</b><br>
+![](analysis/Fig3.png) 
+| City Type  | Avg. Fare per Ride | Avg. Fare Per Driver |
+| ------------- | ------------- | ------------- |
+| Rural | 34.62 | 55.49 |
+| Suburban | 30.97 | 39.50 |
+| Urban | 24.53 | 16.57|
+
 ### Total Rides
 | Box&Whisker | Pie Chart Composition |
 | ------------- | ------------- |
@@ -39,14 +48,7 @@ Data analysis will be performed on raw data provided by 'PyBer', a ride-sharing 
 
 
 
-### Fare Breakdown
-<b>Overview</b><br>
-![](analysis/Fig3.png) 
-| City Type  | Avg. Fare per Ride | Avg. Fare Per Driver |
-| ------------- | ------------- | ------------- |
-| Rural | 34.62 | 55.49 |
-| Suburban | 30.97 | 39.50 |
-| Urban | 24.53 | 16.57|
+
 
 # Summary
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
