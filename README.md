@@ -12,8 +12,13 @@ Data analysis will be performed on raw data provided by 'PyBer', a ride-sharing 
 | ![Graphical Representation](analysis/PyBer_fare_summary.png) | ![](analysis/Fig5.png) |
 
 ### Total Rides
+<p align="center">
+  <img width="500" height="300" src="analysis/Fig1.png">
+</p>
+<p align="center">
+<i>Note: Circle size correlates with driver count per city.</i>
+</p>
 
-![](analysis/Fig1.png)
 
 | Box&Whisker | Pie Chart Composition |
 | ------------- | ------------- |
