@@ -25,10 +25,13 @@ Data analysis will be performed on raw data provided by 'PyBer', a ride-sharing 
 |![](analysis/Fig2.png) | ![](analysis/Fig6.png) |
 
 ### Total Drivers
-- ![](analysis/Fig4.png)
-- ![](analysis/Fig7.png)
 
-### average fare 
+| Box&Whisker | Pie Chart Composition |
+| ------------- | ------------- |
+|![](analysis/Fig4.png) | ![](analysis/Fig7.png) |
+
+
+### Fare Breakdown
 <b>Overview</b><br>
 ![](analysis/Fig3.png) 
 | City Type  | Avg. Fare per Ride | Avg. Fare Per Driver |
