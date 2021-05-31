@@ -22,7 +22,7 @@ Data analysis will be performed on raw data provided by 'PyBer', a ride-sharing 
 - By City Type:
   - ![](analysis/Fig5.png)
 ### average fare 
-| City Type  | Average Fare per Ride | Per Driver |
+| City Type  | Avg. Fare per Ride | Avg. Fare Per Driver |
 | ------------- | ------------- | ------------- |
 | Rural | 34.62 | 55.49 |
 | Suburban | 30.97 | 39.50 |
