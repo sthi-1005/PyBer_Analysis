@@ -44,7 +44,6 @@ Data analysis will be performed on raw data provided by 'PyBer', a ride-sharing 
 
 
 ### Fare Breakdown
-<b>Overview</b><br>
 ![](analysis/Fig3.png) 
 | City Type  | Avg. Fare per Ride | Avg. Fare Per Driver |
 | ------------- | ------------- | ------------- |
