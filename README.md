@@ -11,7 +11,14 @@ Data analysis will be performed on raw data provided by 'PyBer', a ride-sharing 
 | ------------- | ------------- |
 | ![Graphical Representation](analysis/PyBer_fare_summary.png) | ![](analysis/Fig5.png) |
 
+- Total Fares by City Types is highly consistent; Urban cities provide the highest total fare, and Rural cities provide the lowest.
+- During the period of analysis (January 2019 through April 2019, month-ended) Ubran cities account for nearly one-third of PyBer's Total Fares.
+
 ### Total Rides
+| Box&Whisker | Pie Chart Composition |
+| ------------- | ------------- |
+|![](analysis/Fig2.png) | ![](analysis/Fig6.png) |
+
 <p align="center">
   <img width="500" height="300" src="analysis/Fig1.png">
 </p>
@@ -19,16 +26,17 @@ Data analysis will be performed on raw data provided by 'PyBer', a ride-sharing 
 <i>Note: Circle size correlates with driver count per city.</i>
 </p>
 
+- At first glance, the pie chart shows that the % composition of Total Rides per City Type resembles very closely to that of Total Fares.
+- However, when looking at the Box and Whisker plot, the Urban cities have a much larger spread that Rural cities. This suggests that there is a possibility that performance in Urban cities may be harder to predict.
+- It can also be observed in the scatter-plot that there is a correlation in Suburban and Ubran cities that as the total number of rides increase in the x-axis, the number of drivers (cirlce sizes) also increase.
 
-| Box&Whisker | Pie Chart Composition |
-| ------------- | ------------- |
-|![](analysis/Fig2.png) | ![](analysis/Fig6.png) |
 
 ### Total Drivers
 
 | Box&Whisker | Pie Chart Composition |
 | ------------- | ------------- |
 |![](analysis/Fig4.png) | ![](analysis/Fig7.png) |
+
 
 
 ### Fare Breakdown
